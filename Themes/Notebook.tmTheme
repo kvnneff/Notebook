@@ -10,7 +10,8 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#BEB69D</string>
+				<!-- <string>#BEB69D</string> -->
+				<string>#CBC3AA</string>
 				<key>caret</key>
 				<string>#000000</string>
 				<key>foreground</key>
@@ -18,9 +19,11 @@
 				<key>invisibles</key>
 				<string>#85715540</string>
 				<key>lineHighlight</key>
-				<string>#FFFFFF29</string>
+				<!-- <string>#FFFFFF29</string> -->
+				<string>#D3CCB7</string>
 				<key>selection</key>
-				<string>#FFFFFFDB</string>
+				<!-- <string>#FFFFFFDB</string> -->
+				<string>#E1DBCE</string>
 			</dict>
 		</dict>
 		<dict>
@@ -33,7 +36,8 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#FFEECE80</string>
+				<!-- <string>#FFEECE80</string> -->
+				<string>#928A7A</string>
 			</dict>
 		</dict>
 		<dict>
@@ -44,9 +48,11 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#FFFFFF4D</string>
+				<!-- <string>#FFFFFF4D</string> -->
+				<string>#DBD6C4</string>
 				<key>foreground</key>
-				<string>#FFFFFF1A</string>
+				<!-- <string>#FFFFFF1A</string> -->
+				<string>#4A4944</string>
 			</dict>
 		</dict>
 		<dict>
@@ -59,7 +65,8 @@
 				<key>background</key>
 				<string>#E9D92BBF</string>
 				<key>foreground</key>
-				<string>#FFFFFF1A</string>
+				<!-- <string>#FFFFFF1A</string> -->
+				<string>#4D4A20</string>
 			</dict>
 		</dict>
 		<dict>
@@ -83,11 +90,13 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#65D8E6BF</string>
+				<!-- <string>#65D8E6BF</string> -->
+				<string>#6FDBDF</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FFFFFF1A</string>
+				<!-- <string>#FFFFFF1A</string> -->
+				<string>#2F4A4B</string>
 			</dict>
 		</dict>
 		<dict>
@@ -98,11 +107,13 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#65D8E6BF</string>
+				<!-- <string>#65D8E6BF</string> -->
+				<string>#6FDBDF</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FFFFFF1A</string>
+				<!-- <string>#FFFFFF1A</string> -->
+				<string>#2F4A4B</string>
 			</dict>
 		</dict>
 		<dict>
@@ -113,11 +124,13 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#6693525C</string>
+				<!-- <string>#6693525C</string> -->
+				<string>#AAB990</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FFFFFF1A</string>
+				<!-- <string>#FFFFFF1A</string> -->
+				<string>#3E4137</string>
 			</dict>
 		</dict>
 		<dict>
@@ -129,6 +142,7 @@
 			<dict>
 				<key>foreground</key>
 				<string>#C52727</string>
+				
 			</dict>
 		</dict>
 		<dict>
@@ -138,7 +152,7 @@
 			<string>constant.character.entity</string>
 			<key>settings</key>
 			<dict>
-				<key>background</key>
+ 				<key>background</key>
 				<string>#8FE6D3BF</string>
 				<key>fontStyle</key>
 				<string></string>
@@ -153,12 +167,14 @@
 			<string>storage</string>
 			<key>settings</key>
 			<dict>
-				<key>background</key>
-				<string>#A69C86BF</string>
+ 				<key>background</key>
+				<!-- <string>#A69C86BF</string> -->
+				<string>#BCB29A</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FFFFFF1A</string>
+				<!-- <string>#FFFFFF1A</string> -->
+				<string>#42403A</string>
 			</dict>
 		</dict>
 		<dict>
@@ -215,11 +231,13 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#B1A68FBF</string>
+				<!-- <string>#B1A68FBF</string> -->
+				<string>#C3B9A0</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#000000BF</string>
+				<!-- <string>#000000BF</string> -->
+				<string>#312E28</string>
 			</dict>
 		</dict>
 		<dict>
@@ -241,11 +259,13 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#F9559B6E</string>
+				<!-- <string>#F9559B6E</string> -->
+				<string>#EC99AA</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FFFFFF1A</string>
+				<!-- <string>#FFFFFF1A</string> -->
+				<string>#4E393E</string>
 			</dict>
 		</dict>
 		<dict>
